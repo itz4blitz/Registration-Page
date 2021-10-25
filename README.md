@@ -1,5 +1,5 @@
 # Demo:
-https://justinscroggins.github.io/Registration/
+https://justinscroggins.github.io/Registration-Page/
 
 # Static Registration Page
 
