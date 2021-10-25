@@ -3,7 +3,7 @@ https://justinscroggins.github.io/Registration/
 
 # Static Registration Page
 
-An HTML & CSS registration page created using HTML and CSS. The purpose of this exercise was to create a static webpage with form elements and styling from a reference image.
+An HTML & CSS registration page with a form and input elements.
 
 ## Installation
 
