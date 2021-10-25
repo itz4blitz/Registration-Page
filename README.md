@@ -1,3 +1,6 @@
+# Demo:
+https://justinscroggins.github.io/Registration/
+
 # Static Registration Page
 
 An HTML & CSS registration page created to demonstrate the usage of HTML and CSS to create a functional webpage with form elements and styling.
