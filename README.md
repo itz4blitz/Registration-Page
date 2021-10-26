@@ -13,8 +13,4 @@ Clone the project and open in browser.
 git clone <repo url>
 ```
 
-## Contributing
-Based on the Eleven Fifty Academy challenge for students to create a registration page from an image:
-
-
-![registration-example](https://i.imgur.com/rJtWBSp.png)
+![registration-example](https://i.ibb.co/xXvsx1p/image.png)
