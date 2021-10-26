@@ -3,7 +3,7 @@ https://justinscroggins.github.io/Registration-Page/
 
 # Background Information
 
-This project was created to demonstrate the ability to design a webpage using HTML, CSS, and Bootstrap that had a business focus. Having worked for in IT for several years, I wanted to create a website template for an IT Managed Service Provider.
+This project was created to demonstrate the ability to create a webpage from a reference image.
 
 # Static Registration Page
 
@@ -17,5 +17,5 @@ Clone the project and open in browser.
 git clone <repo url>
 ```
 
-![registration-example](https://i.ibb.co/xXvsx1p/image.png)
+![registration-example](https://i.ibb.co/ZHs9Vk2/image.png)
 
